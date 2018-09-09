@@ -1,2 +1,6 @@
 _site
 .sass-cache
+.asset-cache
+.jekyll-metadata
+.vagrant
+letsencrypt/*
