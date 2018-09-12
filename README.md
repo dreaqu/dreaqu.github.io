@@ -1,5 +1,7 @@
-# urban-theme
+# dreaqu.org
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+Web shop for art.
+
+Based on the theme `urban-theme`
 
 Live-Demo: http://narkotyk.net/
