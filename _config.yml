@@ -10,7 +10,9 @@ github_username:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+#permalink: pretty
+permalink: /:title
+
 
 plugins:
   - jekyll-assets
@@ -24,3 +26,10 @@ assets:
 
   autoprefixer:
     browsers: ["last 2 versions","> 5%","IE 9"]
+
+collections_dir: portfolio
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path
